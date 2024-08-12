@@ -1,7 +1,3 @@
-You can add a section in the README for configuration details, including how to set up API keys and other necessary environment variables. Here’s an updated version of the README with those details included:
-
----
-
 # InterviewPal
 
 **InterviewPal** is an AI-powered full stack mock interview application designed to enhance interview readiness through a personalized experience. Built with Next.js, React.js, and Tailwind CSS, InterviewPal provides users with a user-friendly platform for practicing and improving their interview skills.
