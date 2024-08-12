@@ -78,6 +78,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **CLERK**: For authentication.
 - **PostgreSQL**: For secure data storage.
 
----
 
-Feel free to customize the configuration details based on your actual setup!
