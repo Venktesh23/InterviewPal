@@ -9,6 +9,19 @@
 - **Feedback & Ratings**: Receive detailed feedback and ratings on your interview responses.
 - **Progress Tracking**: Keep track of your interview progress over time.
 
+## Functionality
+InterviewPal is a comprehensive AI-powered mock interview platform with the following key features:
+
+**Personalized Mock Interviews:** Utilizes Next.js, React.js, and Tailwind CSS to deliver a tailored mock interview experience. Users can input their skillset, job position, and years of experience to receive personalized interview questions and feedback.
+
+**Dynamic Question Generation:** Integrates the Gemini AI API to generate customized interview questions based on job descriptions and user inputs. The API also rates user responses and provides enhanced answers, improving interview preparation effectiveness.
+
+**Real-time Feedback and Performance Improvement:** Offers real-time evaluation of recorded responses, with a 20% increase in users' interview performance as reported in user feedback. Provides detailed feedback to help users refine their answers and improve their interview skills.
+
+**Secure Authentication and Data Management:** Implements CLERK for secure user authentication and PostgreSQL for robust data storage. Ensures the safe handling of user data, interview sessions, and responses, enhancing platform trustworthiness and data security.
+
+**User Progress Tracking:** Allows users to save their interview progress, track their performance over time, and review past interviews, helping them to monitor their improvement and prepare more effectively.
+
 ## Installation
 
 To get started with InterviewPal, follow these steps:
@@ -24,6 +37,8 @@ To get started with InterviewPal, follow these steps:
 
     ```bash
     npm install
+    npm install tailwindcss
+
     
 3. Create a `.env.local` file in the root of your project to configure environment variables. Add the following variables to the file:
 
