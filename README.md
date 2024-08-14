@@ -24,14 +24,7 @@ To get started with InterviewPal, follow these steps:
 
     ```bash
     npm install
-    # or
-    yarn install
-    # or
-    pnpm install
-    # or
-    bun install
-    ```
-
+    
 3. Create a `.env.local` file in the root of your project to configure environment variables. Add the following variables to the file:
 
     ```plaintext
@@ -44,13 +37,7 @@ To get started with InterviewPal, follow these steps:
 
     ```bash
     npm run dev
-    # or
-    yarn dev
-    # or
-    pnpm dev
-    # or
-    bun dev
-    ```
+
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
