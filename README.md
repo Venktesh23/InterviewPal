@@ -39,7 +39,6 @@ To get started with InterviewPal, follow these steps:
     npm install
     npm install tailwindcss
 
-    
 3. Create a `.env.local` file in the root of your project to configure environment variables. Add the following variables to the file:
 
     ```plaintext
@@ -52,8 +51,6 @@ To get started with InterviewPal, follow these steps:
 
     ```bash
     npm run dev
-
-
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
 6. You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
