@@ -62,14 +62,3 @@ To get started with InterviewPal, follow these steps:
 - **[Next.js GitHub Repository](https://github.com/vercel/next.js)** - Check out the repository and contribute!
 
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- **Gemini AI API**: For generating tailored questions and providing feedback.
-- **CLERK**: For authentication.
-- **PostgreSQL**: For secure data storage.
-
-
